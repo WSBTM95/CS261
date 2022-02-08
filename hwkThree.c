@@ -1,6 +1,6 @@
 char hwkThree(unsigned int x) {
     char expo;
-    printf("%i ", x);
+//printf("%i ", x);
 //    x = x << 1;
 //printf("%i ", x);
     x = x & 2139095040; //7F800000
